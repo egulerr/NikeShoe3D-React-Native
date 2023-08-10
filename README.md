@@ -25,4 +25,11 @@ You can run this project on your local machine by following the steps below.
 
 ## Video
 
-![Alt Text](https://github.com/egulerr/NikeShoe3D-React-Native/blob/main/nike3d.gif)
+
+<div>
+  <img width="350" height="700" src="https://github.com/egulerr/NikeShoe3D-React-Native/blob/main/nike3d.gif" />
+ </div>
+
+## Note
+
+Due to limitations in finding suitable 3D Nike shoe assets, a limited shoe asset was used in the application. 
