@@ -22,3 +22,7 @@ You can run this project on your local machine by following the steps below.
 
    ```sh
    npm start
+
+## Video
+
+![Alt Text](https://github.com/egulerr/NikeShoe3D-React-Native/blob/main/nike3d.gif)
